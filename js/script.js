@@ -38,6 +38,7 @@ const loop = setInterval(() => {
 
 },10);
 
+<<<<<<< HEAD
 document.addEventListener('keydown', jump);
 
 
@@ -47,3 +48,6 @@ let pix = getElementById("pix1");
 function mostrar(){
     
 }
+=======
+document.addEventListener('keydown', jump);
+>>>>>>> 216a0ff131ac9c2ab6da1de1cab9b6c7c3b0add9
